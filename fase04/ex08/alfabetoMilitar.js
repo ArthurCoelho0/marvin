@@ -10,7 +10,7 @@ function alfabetoMilitar(n) {
     if(n==="u" || n==="U")
     return("uniform")
     else
-    return("false")
+    return(false)
  }
 
 
