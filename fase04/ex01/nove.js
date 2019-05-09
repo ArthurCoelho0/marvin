@@ -1,8 +1,8 @@
 function nove(num) {
         if (num % 10 === 9)
-        return ("true")
+        return (true)
         else
-        return ("false")
+        return (false)
         
         
 }
