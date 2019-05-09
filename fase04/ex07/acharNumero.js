@@ -1,11 +1,11 @@
 function acharNumero(n) {
   if (n < 5)
   return ("a")
-  if (n > 4 && n <11)
+  if ( n>=5 && n<=10 )
   return ("b")
-  if (n > 10 && n <101)
+ if (n > 10 && n<=100)
   return ("c")
-  else
+ else
   return ("d")
  }
 
