@@ -1,5 +1,4 @@
-function tamanho(n){
-    return (n.length)
+function primeiro(y){
+    return y[0]
 }
-
-
+ 
