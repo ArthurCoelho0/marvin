@@ -1,5 +1,6 @@
 function quantasLetras(a) {
     var x = a.toString()
-    return x.length
+    var s = a.length-1
+    return x.length - s
    
 }
